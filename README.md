@@ -2,7 +2,8 @@
 Basic &amp; Advanced data analytics use-cases using SQL
 
 I have assumed the following table for all the examples in SQL, which is typical of e-commerce data.
-Of course, for illustrative purposes, I have kept the dimensionality low. Real e-commerce datasets would likely capture ~400 attributes if not more.
+Of course, for illustrative purposes, I have kept the dimensionality low. 
+Real e-commerce datasets would likely capture ~400 attributes if not more.
 
 vid
 active_session
